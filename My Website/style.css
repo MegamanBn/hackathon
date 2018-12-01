@@ -1,0 +1,40 @@
+
+#left-text {
+	//float: left;
+	text-align: justify;
+	border-style: outset;
+	border-color: red;
+	//display: inline;
+}
+#right-text {
+	//float: right;
+	text-align: justify;
+	//display: inline;
+}
+#IPList {
+	//outline: 5px dashed blue;
+	text-align: right;
+	//border-style: outset;
+	//border-color: green;
+	//border-width: 10px;
+	//display: inline;
+}
+body{
+	//display: flex;
+	border-style: outset;
+	border-color: blue;
+	border-width: 10px;
+}
+.header {
+	display:flex;
+	justify-content: space-between;
+	
+	
+}
+#Description {
+	text-align: right;
+	padding-right: 10px;
+}
+.test {
+	text-align: center;
+}
